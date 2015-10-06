@@ -7,12 +7,13 @@ title: 进击的lao克勒
 subtitle:
 description:
 author: Kakie Zhang
+email: 782922086@qq.com
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://laokela.net
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
