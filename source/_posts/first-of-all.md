@@ -1,6 +1,7 @@
 title: 开山
 date: 2015-10-03 03:03:02
-tags:
+tags: [开篇]
+description: 开山
 ---
 开山，即开门见山。
 
