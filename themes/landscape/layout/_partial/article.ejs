@@ -27,6 +27,16 @@
       <% if (post.comments && config.disqus_shortname){ %>
         <a href="<%- post.permalink %>#disqus_thread" class="article-comment-link">Comments</a>
       <% } %>
+
+	  <% if (theme.comment_provider == "duoshuo"){ %>
+	    <div class="alignright"> 
+	  	<a href="<%- post.permalink %>#comment" class="comment-link">
+	  	  <i class="fa fa-comments"></i><span class="ds-thread-count" data-thread-key="<%- config.root %><%- post.path%>">&nbsp;
+	  	  </span>
+	  	</a>
+	    </div>
+	  <% } %>
+
       <%- partial('post/tag') %>
     </footer>
   </div>
@@ -42,3 +52,5 @@
   </div>
 </section>
 <% } %>
+
+<%- partial('comment') %>
