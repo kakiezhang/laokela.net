@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 进击的lao克勒
-subtitle: 一枚上海土著，coder.(py|php)，Vim重度用户
-description: Kakie's blog | python | php | vim
+title: Kakie Zhang's blog
+subtitle: 坐标魔都，coder.(py|go)，Vimer
+description: Kakie's blog
 author: Kakie Zhang
 email: 782922086@qq.com
 language:
@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://laokela.net
+url: http://rockshow.me
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:

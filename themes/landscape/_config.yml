@@ -21,7 +21,7 @@ comment_provider: duoshuo
 
 # Duoshuo comment
 duoshuo:
-  short_name: laokela
+  short_name: rockshow
 
 social:
   github: https://github.com/kakiezhang
@@ -29,7 +29,7 @@ social:
 
 # Miscellaneous
 google_analytics:
-favicon: http://laokela.net/s-static/css/captain_mod.jpg
+favicon: 
 twitter:
 google_plus:
 fb_admins:
